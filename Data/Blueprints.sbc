@@ -31,12 +31,12 @@
             <Icon>Textures\tech4x.dds</Icon>
             <Prerequisites>
                 <!-- <Item Amount="5" TypeId="Component" SubtypeId="Tech2x"/> -->
-				<Item Amount="207" TypeId="Ingot" SubtypeId="Nickel" />
-				<Item Amount="15" TypeId="Ingot" SubtypeId="Cobalt"/>
-				<Item Amount="15" TypeId="Ingot" SubtypeId="Silicon"/>
-				<Item Amount="180" TypeId="Ingot" SubtypeId="Silver"/>
-				<Item Amount="42" TypeId="Ingot" SubtypeId="Gold"/>
-				<Item Amount="60" TypeId="Ingot" SubtypeId="Uranium"/>
+                <Item Amount="420" TypeId="Ingot" SubtypeId="Iron"/>
+				<Item Amount="420" TypeId="Ingot" SubtypeId="Nickel" />
+				<Item Amount="420" TypeId="Ingot" SubtypeId="Silicon"/>
+				<Item Amount="24" TypeId="Ingot" SubtypeId="Silver"/>
+				<Item Amount="69" TypeId="Ingot" SubtypeId="Gold"/>
+				<Item Amount="12.6" TypeId="Ingot" SubtypeId="Uranium"/>
                 
             </Prerequisites>
             <Result Amount="1" TypeId="Component" SubtypeId="Tech4x"/>
